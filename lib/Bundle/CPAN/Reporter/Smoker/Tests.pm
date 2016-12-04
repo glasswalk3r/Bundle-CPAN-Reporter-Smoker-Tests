@@ -56,6 +56,7 @@ way to include those tests that have a good chance to be required to be used by 
     Test::Class::Moose [0.54]
     Test::HTML::Tidy [1.00]
     Test::Simple [1.302019]
+    Test::Reporter::Transport::Socket [0.32]
 
 =head1 SEE ALSO
 
